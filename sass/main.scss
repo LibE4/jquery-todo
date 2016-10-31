@@ -1,0 +1,35 @@
+* {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+body {
+  background-color: rgba(255,131,0,.8);
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.name,
+.time,
+.message {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.time {
+  font-style: italic;
+  font-size: small;
+}
+
+#msgLabel {
+  margin-top: 165px;
+  font-weight: bolder;
+}
+
+.delete-edit {
+  float: right;
+}
+
