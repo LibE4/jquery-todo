@@ -25,3 +25,12 @@ body {
 
 .delete-edit {
   float: right; }
+
+ul li.editMode input[type=text] {
+  display: block; }
+
+ul li.editMode label {
+  display: none; }
+
+.inputTask {
+  display: none; }

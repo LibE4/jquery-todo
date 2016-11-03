@@ -1,18 +1,29 @@
 {
-"items": {
-	"item0": {
-		"task": "mow the lawn",
-		"isCompleted": true
+	"items": {
+		"item0": {
+			"task": "mow the lawn",
+			"isCompleted": true,
+			"uid":"GG0an5PzE8cc9tVGLhLVnIvlELO2"
+		},
+		"item1": {
+			"task": "eat chips",
+			"isCompleted": false,
+			"uid":"GG0an5PzE8cc9tVGLhLVnIvlELO2"
+		},
+		"item2": {
+			"task": "take a nap",
+			"isCompleted": true,
+			"uid":"HEfsiG0w10W2SDdlt4uJBfOVv0i1"
+		}
 	},
-	"item1": {
-		"task": "eat chips",
-		"isCompleted": false
-	},
-	"item2": {
-		"task": "take a nap",
-		"isCompleted": true
+	"users":{
+		"user1":{
+			"username":"a",
+			"uid":"GG0an5PzE8cc9tVGLhLVnIvlELO2"
+		},
+		"user2":{
+			"username":"b",
+			"uid":"HEfsiG0w10W2SDdlt4uJBfOVv0i1"
+		}
 	}
-}
-
-
 }
